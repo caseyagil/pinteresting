@@ -1,6 +1,3 @@
-# One Month Rails
+Project 4 for General Assembly WDI DC 8
 
-This is my first attempt at RoR.  Where I learn to make a pinteresting sample application for
-[*One Month Rails*] (http://onemonthrails.com)
-
-By [Casey] (caseyagil@gmail.com)
+I am making a clone of pinterest to "hone" my skills in Ruby on Rails.  I enjoy ruby on rails alot compared to other programming languages which is why I stayed in the RoR and made an app that utilizes the language.
