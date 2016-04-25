@@ -1,1 +1,9 @@
-import 'bootstrap';
+$body-bg: #E9E9E9;
+ $navbar-default-bg: #FFF;
+ $navbar-default-color:  #212121;
+ $navbar-default-link-color:   #212121;
+ $brand-primary: #B6182A;
+ $jumbotron-bg: #FFF;
+
+ @import 'bootstrap-sprockets';
+  @import 'bootstrap';
