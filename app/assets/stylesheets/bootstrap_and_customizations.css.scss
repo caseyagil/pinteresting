@@ -1,9 +1,29 @@
-$body-bg: #E9E9E9;
- $navbar-default-bg: #FFF;
- $navbar-default-color:  #212121;
- $navbar-default-link-color:   #212121;
- $brand-primary: #B6182A;
- $jumbotron-bg: #FFF;
+@import url(https://fonts.googleapis.com/css?family=Pacifico);
 
- @import 'bootstrap-sprockets';
-  @import 'bootstrap';
+$body-bg:                          #E9E9E9;
+$font-family-sans-serif:           'Helvetica Neue', Helvetica, Arial, sans-serif;
+$navbar-height:                    50px;
+$navbar-default-bg:                black;
+$navbar-default-brand-color:       yellow;
+$brand-primary:                    black;
+$jumbotron-bg:                     white;
+
+@import 'bootstrap-sprockets';
+@import 'bootstrap';
+
+.center {
+     text-align: center;
+}
+
+.navbar-brand {
+     font-family: 'Pacifico';
+     font-size: 1.5em;
+}
+
+.navbar {
+	    box-shadow: 0 1px 2px 0 rgba(0,0,0,0.22);
+}
+
+.btn {
+	margin-right: 5px;
+}
